@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crazygiscool
 - 👀 I’m interested in PLAY GAMES
-- 🌱 I’m currently learning JAVA, C#, UNITY
+- 🌱 I’m currently learning JAVA, C#, Godot
 - 💞️ I’m looking to collaborate on EAGLER Projects
 - 📫 How to reach me: just comment
 - 😄 Pronouns: Crazyg
