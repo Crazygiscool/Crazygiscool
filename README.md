@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Crazygiscool
-- 👀 I’m interested in PLAY GAMES
-- 🌱 I’m currently learning JAVA, C#, Godot
-- 💞️ I’m looking to collaborate on EAGLER Projects
+- 👋 Hi, I’m [@Crazygiscool](https://github.com/crazygiscool)
+- 👀 I’m interested in playing [Minecraft](https://minecraft.net)
+- 🌱 I’m currently learning [JAVA](https://java.com), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), [Godot](https://godotengine.org/)
+- 💞️ I’m looking to collaborate on [EAGLER](https://eaglercraft.com) Projects
 - 📫 How to reach me: crazygiscool@outlook.com
 - 😄 Pronouns: Crazyg
 - ⚡ Fun fact: I'm a self taught dev
