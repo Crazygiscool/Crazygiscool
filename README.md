@@ -2,7 +2,7 @@
 - 👀 I’m interested in PLAY GAMES
 - 🌱 I’m currently learning JAVA, C#, Godot
 - 💞️ I’m looking to collaborate on EAGLER Projects
-- 📫 How to reach me: just comment
+- 📫 How to reach me: crazygiscool@outlook.com
 - 😄 Pronouns: Crazyg
 - ⚡ Fun fact: I'm a self taught dev
 
