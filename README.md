@@ -28,7 +28,7 @@ I love contributing to open-source projects and collaborating with the community
 
 ## 📫 How to reach me
 - Email: [crazygiscool@outlook.com](mailto:crazygiscool@outlook.com)
-- Youtube: [Crazygiscool](https://youtube.com/crazygiscool)
+- Youtube: [Crazygiscool](https://youtube.com/@crazygiscool)
 - Portfolio: [Crazygiscool](https://crazygiscool.github.io)
 
 ---
