@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm passionate about **technology**, **coding**, a
 
 ## 💡 Top Projects
 Here are a few projects I've been working on:
-- [**Everything**](https://github.com/Crazygiscool/everything) - [Short description of the project]
-- [**Exif-Viewer**](https://github.com/Crazygiscool/Exif-Image-Viewer) - [Short description of the project]
+- [**Everything**](https://github.com/Crazygiscool/everything) - [A minecraft Plugin for Everything]
+- [**Exif-Viewer**](https://github.com/Crazygiscool/Exif-Image-Viewer) - [Image exif meta-data viewer]
 
 ## 🌟 Contributions
 I love contributing to open-source projects and collaborating with the community. Check out my pinned repositories below to see my featured work!
