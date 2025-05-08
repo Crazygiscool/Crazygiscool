@@ -3,14 +3,14 @@
 Welcome to my GitHub profile! I'm passionate about **technology**, **coding**, and **solving problems**. Here's a little more about me:
 
 ## 🚀 About Me
-- 🌱 Currently learning: **[JAVA](https://java.com), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), [Godot](https://godotengine.org/)**
+- 🌱 Currently learning: **[JAVA](https://java.com), [Python](https://python.org), [Godot](https://godotengine.org/)**
 - 👯 Looking to collaborate on: **[EAGLERCRAFT](https://eaglercraft.com) Projects**
 - 💬 Ask me about: **[Minecraft](https://minecraft.net)**
 - 😄 Pronouns: **[He/Him]**
 - ⚡ Fun fact: **I'm a self taught dev**
 
 ## 🔧 Technologies & Tools
-- **Languages**: [Java,Python,Gdscript]
+- **Languages**: [Java, Python, Gdscript]
 - **Frameworks/Tools**: [Node.js]
 - **Databases**: [MariaDB, Mysql]
 - **Cloud/DevOps**: [Docker]
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about **technology**, **coding**, a
 
 ## 💡 Top Projects
 Here are a few projects I've been working on:
-- [**Everything**](https://github.com/Crazygiscool/everything) - [A minecraft Plugin for Everything]
+- [**Everything**](https://github.com/Crazygiscool/everything) - [A Minecraft Plugin for Everything]
 - [**Exif-Viewer**](https://github.com/Crazygiscool/Exif-Image-Viewer) - [Image exif meta-data viewer]
 - [**Scheduler**](https://github.com/Crazygiscool/Scheduler) - [A simple scheduler]
 
