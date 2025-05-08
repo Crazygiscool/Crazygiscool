@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Crazygiscool
 
-## 💡 MOTD
+#                 💡 MOTD
   IT IS OFFICIALLY MY ONE FULL YEAR ON GITHUB
 
-Welcome to my GitHub profile! I'm passionate about **technology**, **coding**, and **solving problems**. Here's a little more about me:
+##Welcome to my GitHub profile! I'm passionate about **technology**, **coding**, and **solving problems**. Here's a little more about me:
 
 ## 🚀 About Me
 - 🌱 Currently learning: **[JAVA](https://java.com), [Python](https://python.org), [Godot](https://godotengine.org/)**
