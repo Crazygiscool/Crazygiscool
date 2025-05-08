@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Crazygiscool
 
-## Welcome to my GitHub profile! I'm passionate about **technology**, **coding**, and **solving problems**. Here's a little more about me:
+**Welcome to my GitHub profile! I'm passionate about **technology**, **coding**, and **solving problems**. Here's a little more about me:**
 
 ## 🚀 About Me
 - 🌱 Currently learning: **[JAVA](https://java.com), [Python](https://python.org), [Godot](https://godotengine.org/)**
@@ -8,6 +8,7 @@
 - 💬 Ask me about: **[Minecraft](https://minecraft.net)**
 - 😄 Pronouns: **[He/Him]**
 - ⚡ Fun fact: **I'm a self taught dev**
+-  Mesaage Of The Month: **ONE YEAR MILESTONE ON GITHUB**
 
 ## 🔧 Technologies & Tools
 - **Languages**: [Java, Python, Gdscript]
