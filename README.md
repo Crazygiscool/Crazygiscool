@@ -8,7 +8,6 @@
 - 💬 Ask me about: **[Minecraft](https://minecraft.net)**
 - 😄 Pronouns: **[He/Him]**
 - ⚡ Fun fact: **I'm a self taught dev**
--  Mesaage Of The Month: **ONE YEAR MILESTONE ON GITHUB**
 
 ## 🔧 Technologies & Tools
 - **Languages**: [Java, Python, Gdscript]
@@ -17,9 +16,9 @@
 - **Cloud/DevOps**: [Docker]
 
 ## 📈 GitHub Stats
-![Crazygiscool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazygiscool&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazygiscool&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=crazygiscool&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=crazygiscool&theme=dark)\
+![Crazygiscool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazygiscool&show_icons=true&theme=dark)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazygiscool&theme=dark)
 
 
 ## 💡 Top Projects
