@@ -30,7 +30,7 @@ Here are a few projects I've been working on:
 I love contributing to open-source projects and collaborating with the community. Check out my pinned repositories below to see my featured work!
 
 ## 📫 How to reach me
-- Email: [crazygiscool@outlook.com](mailto:crazygiscool@outlook.com)
+- Email: [crazygiscool@proton.me](mailto:crazygiscool@proton.me)
 - Youtube: [Crazygiscool](https://youtube.com/@crazygiscool)
 - Portfolio: [Crazygiscool](https://crazygiscool.github.io)
 
