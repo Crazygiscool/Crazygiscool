@@ -25,7 +25,7 @@
 Here are a few projects I've been working on:
 - [**Everything**](https://github.com/Crazygiscool/everything) - [A Minecraft Plugin for Everything]
 - [**Exif-Viewer**](https://github.com/Crazygiscool/Exif-Image-Viewer) - [Image exif meta-data viewer]
-- [**Scheduler**](https://github.com/Crazygiscool/Scheduler) - [A simple scheduler]
+- [**Lumen**](https://github.com/Crazygiscool/Lumen) - [Cross-platform flutter Journalling APP]
 
 ## 🌟 Contributions
 I love contributing to open-source projects and collaborating with the community. Check out my pinned repositories below to see my featured work!
