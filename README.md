@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Crazygiscool
 
 **Welcome to my GitHub profile! I'm passionate about **technology**, **coding**, and **solving problems**. Here's a little more about me:**
-
+[![wakatime](https://wakatime.com/badge/user/94726172-a5c4-4c20-b247-f01d1fc63010.svg)](https://wakatime.com/@94726172-a5c4-4c20-b247-f01d1fc63010)
 ## 🚀 About Me
 - 🌱 Currently learning: **[JAVA](https://java.com), [Python](https://python.org), [Godot](https://godotengine.org/)**
 - 👯 Looking to collaborate on: **[EAGLERCRAFT](https://eaglercraft.com) Projects**
@@ -16,7 +16,6 @@
 - **Cloud/DevOps**: [Docker]
 
 ## 📈 GitHub Stats
-[![wakatime](https://wakatime.com/badge/user/94726172-a5c4-4c20-b247-f01d1fc63010.svg)](https://wakatime.com/@94726172-a5c4-4c20-b247-f01d1fc63010)
 ![Crazygiscool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazygiscool&show_icons=true&theme=dark)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazygiscool&theme=dark)
 
