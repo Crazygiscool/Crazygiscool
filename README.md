@@ -16,6 +16,7 @@
 - **Cloud/DevOps**: [Docker]
 
 ## 📈 GitHub Stats
+[![wakatime](https://wakatime.com/badge/user/94726172-a5c4-4c20-b247-f01d1fc63010.svg)](https://wakatime.com/@94726172-a5c4-4c20-b247-f01d1fc63010)
 ![Crazygiscool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazygiscool&show_icons=true&theme=dark)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazygiscool&theme=dark)
 
