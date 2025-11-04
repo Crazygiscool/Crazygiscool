@@ -22,12 +22,12 @@
   <a href="https://wakatime.com/share/@Crazygiscool/23c3d4c7-9269-4f98-841b-9a491cea1757">
     <img src="https://wakatime.com/share/@Crazygiscool/f8cf61c2-59be-49c8-a000-70bf6b46d84c.svg" 
          alt="WakaTime Stats 1" 
-         width="500">
+         width="400">
   </a>
   <a href="https://wakatime.com/share/@Crazygiscool/22a8532d-5546-4dbb-8f6c-db97a24ee2e2">
     <img src="https://wakatime.com/share/@Crazygiscool/22a8532d-5546-4dbb-8f6c-db97a24ee2e2.svg" 
          alt="WakaTime Stats 2" 
-         width="500">
+         width="400">
   </a>
 </p>
 
