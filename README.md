@@ -35,7 +35,7 @@ I love contributing to open-source projects and collaborating with the community
 ## 📫 How to reach me
 - Email: [crazygiscool@proton.me](mailto:crazygiscool@proton.me)
 - Youtube: [Crazygiscool](https://youtube.com/@crazygiscool)
-- Portfolio: [Crazygiscool](https://crazygiscool.github.io)
+- Portfolio: [Crazygiscool](https://crazyg.is-a.dev)
 
 ---
 
