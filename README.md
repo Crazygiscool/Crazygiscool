@@ -26,7 +26,7 @@
 ## 💡 Top Projects
 Here are a few projects I've been working on:
 - [**Everything**](https://github.com/Crazygiscool/everything) - [A Minecraft Plugin for Everything]
-- [**Exif-Viewer**](https://github.com/Crazygiscool/Exif-Image-Viewer) - [Image exif meta-data viewer]
+- [**Tools**](https://github.com/Crazygiscool/Tools) - [Tools I use]
 - [**Lumen**](https://github.com/Crazygiscool/Lumen) - [Cross-platform flutter Journalling APP]
 
 ## 🌟 Contributions
