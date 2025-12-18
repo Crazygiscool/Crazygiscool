@@ -19,8 +19,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://wakatime.com/share/@Crazygiscool/89e40d9f-09a3-41b5-a340-211e3a233ebc.svg" alt="WakaTime Stats 1">
-  <img src="https://wakatime.com/share/@Crazygiscool/69544622-8800-425d-8860-f291d647de52.svg" alt="WakaTime Stats 2">
+  <img src="https://wakatime.com/share/@Crazygiscool/d2b80089-a333-45d2-a20e-5ed0fb3e9dbf.svg" alt="WakaTime Stats 1">
+  <img src="https://wakatime.com/share/@Crazygiscool/bc139370-bd0c-40ab-a1c7-79bb1513898a.svg" alt="WakaTime Stats 2">
 </p>
 
 ## 💡 Top Projects
