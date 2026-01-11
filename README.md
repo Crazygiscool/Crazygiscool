@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Crazygiscool
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Boldonse&weight=200&size=23&duration=4000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Crazygiscool)](https://git.io/typing-svg)
 [![wakatime](https://wakatime.com/badge/user/94726172-a5c4-4c20-b247-f01d1fc63010.svg)](https://wakatime.com/@94726172-a5c4-4c20-b247-f01d1fc63010)
 
 **Welcome to my GitHub profile! I'm passionate about **technology**, **coding**, and **solving problems**. Here's a little more about me:**
