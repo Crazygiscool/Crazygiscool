@@ -7,14 +7,14 @@
 - 🌱 Currently learning: **[JAVA](https://java.com), [Python](https://python.org), [Godot](https://godotengine.org/)**
 - 👯 Looking to collaborate on: **[EAGLERCRAFT](https://eaglercraft.com) Projects**
 - 💬 Ask me about: **[Minecraft](https://minecraft.net)**
-- 😄 Pronouns: **[He/Him]**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm a self taught dev**
 
 ## 🔧 Technologies & Tools
-- **Languages**: [Java, Python, Gdscript]
-- **Frameworks/Tools**: [Node.js]
-- **Databases**: [MariaDB, Mysql]
-- **Cloud/DevOps**: [Docker]
+- **Languages**: Java, Python, Gdscript
+- **Frameworks/Tools**: Node.js
+- **Databases**: MariaDB, Mysql
+- **Cloud/DevOps**: Docker
 
 ## 📈 GitHub Stats
 
