@@ -26,7 +26,7 @@
 ## 💡 Top Projects
 Here are a few projects I've been working on:
 - [**Everything**](https://github.com/Crazygiscool/everything) - [A Minecraft Plugin for Everything]
-- [**Tools**](https://github.com/Crazygiscool/Tools) - [Tools I use]
+- [**Galactic-Database**](https://jedi-archive.vercel.app/) - [Frontend for SWAPI and other APIs]
 - [**Lumen**](https://github.com/Crazygiscool/Lumen) - [Cross-platform flutter Journalling APP]
 
 ## 🌟 Contributions
