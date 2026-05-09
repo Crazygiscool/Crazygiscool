@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1660 Commits
+                            1661 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.86424807395616" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="104.86424807395616" y="0" width="94.71571731722062" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="199.57996539117678" y="0" width="81.69744774206391" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="281.27741313324066" y="0" width="74.96050824876254" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="356.2379213820032" y="0" width="50.686284316133076" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="406.9242056981363" y="0" width="19.867422589069584" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="426.79162828720587" y="0" width="17.476411419116765" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="444.2680397063226" y="0" width="15.731960293677323" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.84736230565649" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="104.84736230565649" y="0" width="94.70046571635254" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="199.54782802200904" y="0" width="81.75836392047485" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="281.3061919424839" y="0" width="74.94843773095344" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="356.25462967343736" y="0" width="50.67812255587014" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="406.9327522293075" y="0" width="19.864223436825494" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="426.79697566613294" y="0" width="17.4735972795091" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="444.2705729456421" y="0" width="15.729427054357938" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anomalyco/opencode</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open source coding agent.</div>
@@ -2578,7 +2578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2026, 15:14:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2026, 16:54:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
