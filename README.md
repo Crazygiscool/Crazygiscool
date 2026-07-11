@@ -13,7 +13,7 @@
 - 🛠️ **Currently diving deep into:** [Java](https://java.com), [Python](https://python.org), and game development with [Godot](https://godotengine.org/).
 - 🤝 **Looking to collaborate on:** [Eaglercraft](https://eaglercraft.com) ecosystems and Minecraft-related open-source projects.
 - 💬 **Ask me about:** Minecraft server architecture, plugin development, and building frontends for cool APIs.
-- ⚡ **Fun fact:** Entirely self-taught and fueled by curiosity (and probably caffeine).
+- ⚡ **Fun fact:** Entirely self-taught and fueled by curiosity (and probably not caffeine).
 
 ---
 
