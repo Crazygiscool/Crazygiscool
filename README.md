@@ -61,10 +61,6 @@
   <img src="https://wakatime.com/share/@Crazygiscool/1b7565ba-58f2-4dee-8950-ef00f27bb55d.svg" alt="WakaTime Stats 1" width="49%">
   <img src="https://wakatime.com/share/@Crazygiscool/ca4cf6db-2640-40dc-96c8-262f081f38f1.svg" alt="WakaTime Stats 2" width="49%">
 </p>
-<p align="center">
-  <img src="https://wakatime.com/share/@Crazygiscool/bc342b78-0e9d-4228-84d4-0bd127b33c7c.svg" alt="WakaTime Stats 3" width="49%">
-  <img src="https://wakatime.com/share/@Crazygiscool/12d1a146-6146-4715-8cb4-4fa514fa2bfd.svg" alt="WakaTime Stats 4" width="49%">
-</p>
 
 ---
 
